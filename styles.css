@@ -1,0 +1,59 @@
+body{
+background-color: #99DDCC;
+}
+h1{
+  color: #ffff;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+    position: relative;
+    top:20px;
+}
+p{
+  color: #160040;
+  position: relative;
+  top:10px;
+  font-family: 'Rubik', sans-serif;
+}
+.form-control{
+  position: relative;
+  left: 150px;
+  width: 50%;
+}
+
+.label{
+  position: relative;
+  left: 150px;
+  font-family: 'Rubik', sans-serif;
+font-size: 20px;
+}
+
+.btn{
+  position: relative;
+  top: 10px;
+  right: 160px;
+  width: 20%;
+  height: 40px;
+  background-color: #105652;
+  border-radius: 20px;
+}
+
+a{
+  font-size: 40px;
+}
+.btn:hover{
+  background-color: #212121;
+}
+.p1{
+  position: relative;
+  right: 200px;
+  color:#00303F;
+}
+
+
+img{
+  position: relative;
+  right: 200px;
+  width: 20%;
+}
+img:hover{
+  transform: scale(1.2);
+}
